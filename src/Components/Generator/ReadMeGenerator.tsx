@@ -11,7 +11,7 @@ import {
   SelectValue,
 } from "@/Components/UI/select";
 import { Card, CardContent } from "@/Components/UI/card";
-import { Tabs, TabsContent, TabsList, TabsTrigger } from "@/Components/UI/tabs";
+import { Tabs, TabsContent, TabsList, TabsTrigger } from "@/Components/UI/tab";
 import ReactMarkdown from "react-markdown";
 
 const templates = {
