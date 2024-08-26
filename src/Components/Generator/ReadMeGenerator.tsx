@@ -1,17 +1,17 @@
 import React, { useState, useEffect } from "react";
-import { Button } from "@/components/ui/button";
-import { Input } from "@/components/ui/input";
-import { Textarea } from "@/components/ui/textarea";
-import { Label } from "@/components/ui/label";
+import { Button } from "@/Components/UI/button";
+import { Input } from "@/Components/UI/input";
+import { Textarea } from "@/Components/UI/textarea";
+import { Label } from "@/Components/UI/label";
 import {
   Select,
   SelectContent,
   SelectItem,
   SelectTrigger,
   SelectValue,
-} from "@/components/ui/select";
-import { Card, CardContent } from "@/components/ui/card";
-import { Tabs, TabsContent, TabsList, TabsTrigger } from "@/components/ui/tabs";
+} from "@/Components/UI/select";
+import { Card, CardContent } from "@/Components/UI/card";
+import { Tabs, TabsContent, TabsList, TabsTrigger } from "@/Components/UI/tabs";
 import ReactMarkdown from "react-markdown";
 
 const templates = {
