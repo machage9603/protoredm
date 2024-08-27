@@ -1,5 +1,5 @@
 import React from "react";
-import ReadMeGenerator from "../Components/ReadMeGenerator/ReadMeGenerator";
+import ReadMeGenerator from "../Components/Generator/ReadMeGenerator";
 
 export default function GeneratorPage() {
   return (
